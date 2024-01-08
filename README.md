@@ -24,8 +24,6 @@ My repositories include some examples of python projects,data analysis,visualiza
 
 🌱 I’m currently learning **TensorFlow**, <b>Keras</b>, **Neural network**,**NLP**
 
-📄 Know about more [file:///C:/Users/kshar/OneDrive/..MyFolder/..Resume/SharmisthaKunduResume.pdf]
-
 ### 🤝 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/sharmistha-kundu-0000b4249/]
 -📫 Email: ksharmi1998@gmail.com
