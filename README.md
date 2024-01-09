@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Enthusiastic and detail-oriented Data Scientist with a hands-on journey that began on various platforms. Leveraging practical hands-on experience gained in data analysis, machine learning, data visualization, data management. I am dedicated to continuous upskilling, staying abreast of the latest industry trends, and applying new techniques to solve complex problems.
 
-My repositories include some examples of python projects,data analysis,visualization, machine learning algorithms and some data science projects.- [https://github.com/SharmisthaKundu98?tab=repositories]
+Explore my data science repository on GitHub, where I store hands-on learnings and practical projects covering various topics in data science. From machine learning to data analysis and visualization, discover code samples to enhance your knowledge and skills in the field. Happy exploring! 
 
 ### 💼 Skills
 - **Programming Languages:** Python
@@ -18,7 +18,7 @@ My repositories include some examples of python projects,data analysis,visualiza
   
 ## Achievements
 - Completed the IBM Data Science Professional Certificate
-     [https://www.coursera.org/account/accomplishments/specialization/certificate/3JR69KJ4PP2B]
+     - **https://www.coursera.org/account/accomplishments/specialization/certificate/3JR69KJ4PP2B**
 
 🔭 I’m currently working on Fraud transaction Detection using Machine Learning.
 
